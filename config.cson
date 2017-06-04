@@ -9,7 +9,10 @@
     panelHeight: 0
     showPanel: true
   "sync-settings":
-    personalAccessToken: "3f1896d3bde53970cb1c2912e190bed326a840c6"
+    gistDescription: "git@gist.github.com:d16d634979086e9ea066e9d5ab0ece1a.git"
+    gistId: "gist:d16d634979086e9ea066e9d5ab0ece1a"
+    personalAccessToken: "1b1dac644a8507686942e8235e0c7a071ad16fc2"
+    syncSettings: false
   "terminal-plus":
     core:
       shell: "C:\\Program Files\\nodejs\\nodevars.bat"

@@ -1,0 +1,1 @@
+{".js":{"console.log":{"prefix":"log","body":"console.log(${1:\"crash\"});$2"}},".css":{"border: 1px solid blue":{"prefix":"brd","body":"border: 1px solid blue"}}}
