@@ -1,0 +1,23 @@
+[
+  {
+    title: "angular learn"
+    paths: [
+      "D:\\Denwer\\home\\angular.ua\\www"
+    ]
+    devMode: true
+  }
+  {
+    title: "Angular Loftblog"
+    paths: [
+      "D:\\Denwer\\home\\angularloft.ua\\www"
+    ]
+    devMode: true
+  }
+  {
+    title: "Angular Pizza Learn Project"
+    paths: [
+      "D:\\Denwer\\home\\angular2.ua\\www"
+    ]
+    devMode: true
+  }
+]
